@@ -1,6 +1,9 @@
 # hacker-news-salaries-data
 Data exploration of software developer salary info from Hacker News
 
+For easy viewing of the data visualizations see this article:
+https://medium.com/@rennerjc/data-visualization-of-hacker-news-salary-spreadsheet-cc6b80546033#.m27utsite
+
 data from:
 https://news.ycombinator.com/item?id=11331223
 
